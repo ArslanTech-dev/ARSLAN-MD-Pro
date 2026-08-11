@@ -1,0 +1,18 @@
+// config.js
+const config = {
+  BOT_NAME: 'ARSLAN MD ULTRA V5',
+  VERSION: '5.0.0',
+  BOT_OWNER: 'Arslan',
+  OWNER_NUMBER: '923164104976',
+  PREFIX: '.',
+  SESSION_NAME: 'session',
+  PORT: 3000,
+  BOT_LOGO: 'https://i.imgur.com/your-logo.jpg',
+  FOOTER: '© ARSLAN MD ULTRA V5 | Powered by Baileys',
+  THUMBNAIL: 'https://i.imgur.com/your-thumb.jpg',
+  GITHUB: 'https://github.com/arslantech/Arslan-MD-Ultra-V5',
+  CHANNEL_LINK: 'https://whatsapp.com/channel/your-channel',
+  ANTI_BAN_DELAY: { min: 2000, max: 5000 }
+};
+
+export default config;
